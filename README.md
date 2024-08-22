@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariapaulaschmeing
 - 🌱 estudante do ensino médio 
-- ⚡ Fun fact: ...
+- ⚡ gosto de atividades físicas 
 
 <!---
 mariapaulaschmeing/mariapaulaschmeing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
